@@ -1,0 +1,7 @@
+fastapi
+strawberry-graphql
+sqlalchemy
+uvicorn
+psycopg2-binary
+pytest
+python-dotenv
