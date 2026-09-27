@@ -3,5 +3,6 @@ strawberry-graphql
 sqlalchemy
 uvicorn
 psycopg2-binary
+psycopg[binary]
 pytest
 python-dotenv
